@@ -1,0 +1,28 @@
+.content{
+	width : 100%;
+	    height: -webkit-fill-available;
+}
+@media screen and  (min-width: 1441px) and (max-width: 2560px){
+	.content {
+	width: 100%;
+    height: -webkit-fill-available;
+}
+.Right {
+    background-color: #49cab0;
+    height: -webkit-fill-available;
+    position: relative;
+}
+.Left {
+    height: -webkit-fill-available;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+}
+
+
+
+
+
+
+
